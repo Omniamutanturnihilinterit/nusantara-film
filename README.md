@@ -11,7 +11,7 @@ A full responsive movie site using TMDB Api. The main target was to build someth
 <li>Reusable Component</li>
 <li>Fully Responsive</li>
 </ul>
-To see Live Demo <a href="https://cineflix-446.netlify.app/#/">Click here</a>
+To see Live Demo <a href="https://cineflix-446.netlify.app/#/](https://nusantara-film.vercel.app/">Click here</a>
 
 ## Demo
 ![3262240](https://user-images.githubusercontent.com/74701997/194726734-89cf6aa6-96ba-444b-973f-e47b45fa965b.jpg)
